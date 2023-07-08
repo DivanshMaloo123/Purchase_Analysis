@@ -27,14 +27,14 @@ The Online Retail Store Analysis script allows you to gain meaningful insights i
 
 ## Installation
 
-1. Clone the repository to your local machine using `git clone https://github.com/your-username/online-retail-analysis.git`.
-2. Navigate to the project directory with `cd online-retail-analysis`.
+1. Clone the repository to your local machine using `git clone https://github.com/DivanshMaloo123/Purchase_Analysis.git'.
+2. Navigate to the project directory with `cd Purchase_Analysis`.
 3. Install the required dependencies by running `pip install -r requirements.txt`.
 
 ## Usage
 
 1. Prepare your dataset by placing it in the project directory and updating the file path in the code (`df = pd.read_excel('retail_data_v1.xlsx')`).
-2. Run the script using `python analysis_script.py`.
+2. Run the script using `python All_Task_File.py`.
 3. The script will perform data preparation, customer segmentation, time series analysis, and generate Excel files with the results.
 4. The prepared data, customer segmentation, and trend analysis files will be saved as `Final_data.xlsx`, `Customer_Segmentation.xlsx`, and `Trend.xlsx`, respectively.
 5. The summary report of the trend analysis will be saved as `Summary_of_Trend.xlsx`.
